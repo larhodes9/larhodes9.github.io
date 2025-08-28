@@ -1,1 +1,0 @@
-alert('Here is some JS code.');
